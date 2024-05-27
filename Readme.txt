@@ -17,9 +17,11 @@ The Online Birth Certificate System allows users to apply for birth certificates
 7. Run the script `http://localhost/obcs`.
 
 ### Admin Credential
-- **Username:** admin
-- **Password:** Admin@123
+- Username: admin
+- Password: Admin@123
 
 ### User Credential
-- **Username:** 9632123698
-- **Password:** Test@12345
+- Username: 9632123698
+- Password: Test@12345
+
+### Contributions are welcome! 
