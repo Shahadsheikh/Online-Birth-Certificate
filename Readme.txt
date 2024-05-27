@@ -1,4 +1,5 @@
 # Online Birth Certificate System
+
 This repository contains the code for the Online Birth Certificate System, a web application designed to facilitate the online registration and issuance of birth certificates. The system aims to streamline the process, making it more efficient and user-friendly for both applicants and administrators.
 
 ## Introduction
